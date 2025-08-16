@@ -19,7 +19,7 @@ namespace DesafioFundamentos.Models
             Console.WriteLine("Digite a placa do veículo para estacionar: ");
             
             string plate = Console.ReadLine();
-            plate = plate.ToUpper();
+            plate = plate.ToUpper().Replace(" ", "").Replace("-", "");
 
             if (string.IsNullOrWhiteSpace(plate) != true)
             {
