@@ -31,8 +31,7 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 1. Cadastrar veículo
 2. Remover veículo
 3. Listar veículos
-4. Encerrar
+4. Padrão da placa
+5. Encerrar
 
 
-## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
